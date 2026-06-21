@@ -16,7 +16,7 @@ All characters, environment assets, collectibles, and visual elements were desig
 
 
 ### Level Design
-<img src="Figma Level Design.png" width="900">
+<img src="Level-Design.png" width="900">
 
 ### Character & Asset Design
 <img src="Godot 2D Çizimler.png" width="900">
