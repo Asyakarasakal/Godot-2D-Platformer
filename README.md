@@ -16,7 +16,7 @@ All characters, environment assets, collectibles, and visual elements were desig
 
 ## Level Design
 
-<img src="Figma Level Design (1).png" width="900">
+<img src="Figma Level Design.png" width="900">
 
 ## Asset Design
 
