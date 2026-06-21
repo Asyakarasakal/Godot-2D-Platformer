@@ -2,25 +2,28 @@
 
 A 2D platformer game developed in Godot Engine.
 
-All visual assets, characters, environments, and game art were designed and created by me.
+All characters, environment assets, collectibles, and visual elements were designed and created by me.
 
 ## Features
 
-- Custom-made 2D art assets
 - Character movement and jumping
-- Enemy system
-- Collectible bone items
+- Enemy AI
+- Collectible bones
+- Score system
 - Sound effects
 - Background music
 - Game Over and restart system
 
-## Design
+## Level Design
 
-- Character design
-- Environment design
-- Asset creation
-- Level design created in Figma
+<img src="Figma Level Design (1).png" width="900">
 
-## Gallery
+## Asset Design
 
-Screenshots will be added here.
+<img src="Godot 2D Çizimler.png" width="900">
+
+## Gameplay
+
+<img src="Gameplay-1.jpeg" width="900">
+
+<img src="Gameplay-2.jpeg" width="900">
