@@ -25,3 +25,7 @@ All characters, environment assets, collectibles, and visual elements were desig
 <img src="Gameplay-1.jpeg" width="900">
 
 <img src="Gameplay-2.jpeg" width="900">
+
+## Download
+
+Download the latest Windows build from the **Releases** section.
